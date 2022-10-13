@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Frame" cx="20" cy="20" r="20" transform="translate(-4 -4)" fill="#9b9b9b"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_USDI" data-name="Icon - USDI" transform="translate(4 4)" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(-4 -4)">
+      <rect id="Rectangle" width="40" height="40" fill="#efef18"/>
+      <path id="Path" d="M13.712,16.148a2.863,2.863,0,1,0,5.721,0V12.766H13.712Z" transform="translate(3.428 3.192)" fill="#161616"/>
+      <path id="Path-2" data-name="Path" d="M26.131,12.766H24.8v3.382a6.974,6.974,0,0,1-6.829,7.109h0a6.973,6.973,0,0,1-6.829-7.109V12.766H9.813a1.737,1.737,0,0,0-1.7,1.771V24.754a1.737,1.737,0,0,0,1.7,1.771H26.131a1.737,1.737,0,0,0,1.7-1.771V14.537A1.737,1.737,0,0,0,26.131,12.766Z" transform="translate(2.028 3.192)" fill="#161616"/>
+      <path id="Path-3" data-name="Path" d="M14.5,14.186h.01a2.853,2.853,0,1,1,5.7,0h3.969a6.971,6.971,0,0,0-6.82-7.1,6.971,6.971,0,0,0-6.82,7.1Z" transform="translate(2.636 1.772)" fill="#161616"/>
+    </g>
+  </g>
+</svg>
